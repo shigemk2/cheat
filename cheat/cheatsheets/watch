@@ -1,0 +1,5 @@
+# Highlight the differences
+watch -d "ls -alhF"
+
+# Update by 1 second
+watch -n 1 "ls -alhF"
